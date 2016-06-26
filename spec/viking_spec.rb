@@ -1,1 +1,1 @@
-# Your code here
+require_relative '../lib/viking.rb'
